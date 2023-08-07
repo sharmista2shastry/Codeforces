@@ -52,4 +52,8 @@ int main()
     minTime(treeHeights, n, k);
  
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 2ce5e40622710789b969cbab490e79b0c73c085a
